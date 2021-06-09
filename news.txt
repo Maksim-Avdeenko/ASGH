@@ -11,7 +11,7 @@ imgui.CreatePaddingX(20); imgui.TextColoredRGB("{191919}4) Конец акции
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{191919}5) Электронные заявления на хирурга: {a10505}[ /pgov5 ]")
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{a10505}• {191919} Добавлен раздел "Разработчики" и в него добавлена связь с разработчиками скрипта")
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{a10505}• {191919} Добавлен раздел "Документации" и в него добавлено:")
-imgui.CreatePaddingX(20); imgui.TextColoredRGB("{191919}1) Правила общения на волне департамента {a10505}[ /d ]")
+imgui.CreatePaddingX(40); imgui.TextColoredRGB("{191919}1) Правила общения на волне департамента {a10505}[ /d ]")
 imgui.CreatePaddingX(40); imgui.TextColoredRGB("{191919}2) Уголовный Кодекс")
 imgui.CreatePaddingX(40); imgui.TextColoredRGB("{191919}3) Кодекс об Административных Правонарушениях")
 imgui.CreatePaddingX(40); imgui.TextColoredRGB("{191919}4) Пометка к первым рангам")
